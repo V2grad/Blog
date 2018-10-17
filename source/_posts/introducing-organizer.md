@@ -9,7 +9,7 @@ categories:
 date: 2018-09-11 12:58:00
 ---
 
-![logo](/images/proposal/LogoWithName.png)
+![logo](/images/proposal/LogoWithName.jpg)
 
 This is the first blog for V2Grad - Organizer Project.
 
